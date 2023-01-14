@@ -1,1 +1,1 @@
-# halo
+# Hardware Abstraction Layer Objects (HALO)
